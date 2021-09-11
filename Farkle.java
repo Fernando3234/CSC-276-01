@@ -47,6 +47,7 @@ public class Farkle{
 
 
 
+
       }
 
 //test
@@ -56,4 +57,7 @@ public class Farkle{
       System.out.println(dicelist.get(x));
   }
   }
+
+
+
 }
